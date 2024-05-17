@@ -1,0 +1,2220 @@
+[
+    {
+        "name": "Chapters",
+        "chest_unopened_img": "images/checks/chest.png",
+        "chest_opened_img": "images/checks/chest_open.png",
+        "children": [
+            {
+                "name": "Flipside",
+                "sections": [
+                    {
+                        "name": "3rd floor - Chest in Piccolo block",
+                        "access_rules": [
+                            "piccolo, old_key, cudge, mario",
+                            "thudley, old_key, piccolo, mario",
+                            "old_key, piccolo, boomer, mario",
+                            "bowser, old_key, piccolo, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "3rd floor - Eat a Spicy Soup",
+                        "access_rules": [
+                            "orange_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "3rd floor - Chest after invisible blocks",
+                        "access_rules": [
+                            "tippi, thudley, old_key",
+                            "tippi, bowser, old_key",
+                            "tippi, old_key, cudge",
+                            "tippi, old_key, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "1st Floor Outskirts - Left chest in hole",
+                        "access_rules": [
+                            "old_key, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "1st Floor Outskirts - Right chest in hole",
+                        "access_rules": [
+                            "old_key, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "3rd Floor - Talk to the kid",
+                        "access_rules": [
+                            "green_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "B1 - Free Captain Gills",
+                        "access_rules": [
+                            "goldfish_bowl"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "2nd Floor - Take the Training Machine to Merluvlee",
+                        "access_rules": [
+                            "tippi, training_machine"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "size": 28,
+                "border_thickness": 2,
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1155,
+                        "y": 1000
+                    }
+                ]
+            },
+            {
+                "name": "Flopside",
+                "sections": [
+                    {
+                        "name": "3rd floor - Chest in Piccolo block",
+                        "access_rules": [
+                            "piccolo, boomer, fleep, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "3rd floor - Chest after invisible blocks",
+                        "access_rules": [
+                            "tippi, boomer, fleep, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "2nd Floor - Take the Crystal Ball to Merlee",
+                        "access_rules": [
+                            "tippi, crystal_ball"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "1st Floor - Chest in Random house",
+                        "access_rules": [
+                            "random_house_key, boomer, fleep, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "size": 28,
+                "border_thickness": 2,
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1245,
+                        "y": 1000
+                    }
+                ]
+            },
+            {
+                "name": "1-1",
+                "sections": [
+                    {
+                        "name": "Freestanding item above Bestovius's House",
+                        "access_rules": [
+                            "red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item inside Bestovius's House hallway",
+                        "access_rules": [
+                            "red_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "First freestanding item inside Bestovius's Room",
+                        "access_rules": [
+                            "red_pure_heart, tippi, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Second freestanding item inside Bestovius's Room",
+                        "access_rules": [
+                            "red_pure_heart, tippi, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Bestovius",
+                        "access_rules": [
+                            "red_pure_heart, tippi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest inside first pipe",
+                        "access_rules": [
+                            "red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding card behind pipe",
+                        "access_rules": [
+                            "red_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest after Star Block",
+                        "access_rules": [
+                            "red_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Bring the You-Know-What to Bestovius",
+                        "access_rules": [
+                            "red_pure_heart, tippi, you-know-what"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "red_pure_heart, mario"
+                        ],
+                        "hosted_item": "completed_chapter_1-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 150,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "1-2",
+                "sections": [
+                    {
+                        "name": "Chest in shortcut",
+                        "access_rules": [
+                            "red_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item on top of Watchitt's house",
+                        "access_rules": [
+                            "red_pure_heart, luigi, peach",
+                            "dashell, luigi, red_pure_heart",
+                            "red_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Thoreau chest",
+                        "access_rules": [
+                            "red_pure_heart, tippi, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Watchitt after talking to Merlee, Merluvlee and Bestovius",
+                        "access_rules": [
+                            "tippi, fleep, red_pure_heart, boomer, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Give the Autograph to Watchitt",
+                        "access_rules": [
+                            "red_pure_heart, luigi, autograph, peach",
+                            "red_pure_heart, mario",
+                            "dashell, luigi, autograph, red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "red_pure_heart, luigi, peach",
+                            "dashell, luigi, red_pure_heart",
+                            "red_pure_heart, mario"
+                        ],
+                        "hosted_item": "completed_chapter_1-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 450,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "1-3",
+                "sections": [
+                    {
+                        "name": "Freestanding item behind rock in first room",
+                        "access_rules": [
+                            "red_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind rock in second room",
+                        "access_rules": [
+                            "red_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "red_pure_heart, luigi",
+                            "dashell, red_pure_heart",
+                            "red_pure_heart, thoreau"
+                        ],
+                        "hosted_item": "completed_chapter_1-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 750,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "1-4",
+                "sections": [
+                    {
+                        "name": "Chest in second room",
+                        "access_rules": [
+                            "red_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in room after 3D block",
+                        "access_rules": [
+                            "red_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding key behind blocks",
+                        "access_rules": [
+                            "red_pure_heart, thoreau, $has|ruins_key|1, mario",
+                            "red_pure_heart, thoreau, peach, $has|ruins_key|1",
+                            "red_pure_heart, luigi, thoreau, $has|ruins_key|1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding key between fire bars",
+                        "access_rules": [
+                            "red_pure_heart, tippi, $has|ruins_key|2, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Hidden chest after 3D path",
+                        "access_rules": [
+                            "red_pure_heart, tippi, $has|ruins_key|2, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Orange Pure Heart",
+                        "access_rules": [
+                            "red_pure_heart, thoreau, tippi, $has|ruins_key|3",
+                            "red_pure_heart, luigi, tippi, $has|ruins_key|3"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Ask Merlumina to sign the Paper",
+                        "access_rules": [
+                            "tippi, red_pure_heart, thoreau, $has|ruins_key|3, paper",
+                            "luigi, tippi, red_pure_heart, $has|ruins_key|3, paper"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "red_pure_heart, thoreau, tippi, $has|ruins_key|3",
+                            "red_pure_heart, luigi, tippi, $has|ruins_key|3"
+                        ],
+                        "hosted_item": "completed_chapter_1-4",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1050,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "2-1",
+                "sections": [
+                    {
+                        "name": "Chest after Squigs",
+                        "access_rules": [
+                            "orange_pure_heart, peach, mario",
+                            "dashell, orange_pure_heart, mario",
+                            "luigi, orange_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Boomer Chest",
+                        "access_rules": [
+                            "dashell, door_key_(2-1), orange_pure_heart, tippi",
+                            "tippi, door_key_(2-1), orange_pure_heart, luigi",
+                            "tippi, door_key_(2-1), orange_pure_heart, peach"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest behind Boomer chest",
+                        "access_rules": [
+                            "tippi, door_key_(2-1), boomer, orange_pure_heart, dashell, mario",
+                            "tippi, door_key_(2-1), boomer, orange_pure_heart, peach, mario",
+                            "luigi, tippi, door_key_(2-1), boomer, orange_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Left chest before Star Block",
+                        "access_rules": [
+                            "door_key_(2-1), boomer, orange_pure_heart, dashell, mario",
+                            "door_key_(2-1), boomer, orange_pure_heart, peach, mario",
+                            "luigi, door_key_(2-1), boomer, orange_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Right chest before Star Block",
+                        "access_rules": [
+                            "door_key_(2-1), boomer, orange_pure_heart, dashell, mario",
+                            "door_key_(2-1), boomer, orange_pure_heart, peach, mario",
+                            "luigi, door_key_(2-1), boomer, orange_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "door_key_(2-1), orange_pure_heart, peach, boomer",
+                            "dashell, door_key_(2-1), orange_pure_heart, boomer"
+                        ],
+                        "hosted_item": "completed_chapter_2-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 150,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "2-2",
+                "sections": [
+                    {
+                        "name": "Chest above entrance",
+                        "access_rules": [
+                            "orange_pure_heart, mario",
+                            "luigi, orange_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest on roof",
+                        "access_rules": [
+                            "orange_pure_heart, peach",
+                            "orange_pure_heart, mario",
+                            "luigi, orange_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item dragged by rope",
+                        "access_rules": [
+                            "orange_pure_heart, mario, dottie"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item hung by rope",
+                        "access_rules": [
+                            "orange_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest above spike roof",
+                        "access_rules": [
+                            "orange_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "orange_pure_heart, house_key"
+                        ],
+                        "hosted_item": "completed_chapter_2-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 450,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "2-3",
+                "sections": [
+                    {
+                        "name": "Chest behind blocks",
+                        "access_rules": [
+                            "bowser, orange_pure_heart, mario, dottie",
+                            "orange_pure_heart, boomer, mario",
+                            "orange_pure_heart, cudge, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Slim chest",
+                        "access_rules": [
+                            "orange_pure_heart, peach, mario",
+                            "luigi, orange_pure_heart, mario",
+                            "dashell, orange_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "orange_pure_heart, slim, mario"
+                        ],
+                        "hosted_item": "completed_chapter_2-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 750,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "2-4",
+                "sections": [
+                    {
+                        "name": "Freestanding item behind Room 08 sign",
+                        "access_rules": [
+                            "orange_pure_heart, slim, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Yellow Pure Heart",
+                        "access_rules": [
+                            "orange_pure_heart, slim, boomer, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "orange_pure_heart, slim, boomer, mario"
+                        ],
+                        "hosted_item": "completed_chapter_2-4",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1050,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "3-1",
+                "sections": [
+                    {
+                        "name": "Talk to Barry after defeating Francis",
+                        "access_rules": [
+                            "completed_chapter_3-4, yellow_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in warp zone right pipe",
+                        "access_rules": [
+                            "yellow_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item in background",
+                        "access_rules": [
+                            "yellow_pure_heart, mario",
+                            "yellow_pure_heart, peach",
+                            "luigi, yellow_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in background pipe",
+                        "access_rules": [
+                            "yellow_pure_heart, mario",
+                            "yellow_pure_heart, peach",
+                            "luigi, yellow_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest above colorful persons",
+                        "access_rules": [
+                            "yellow_pure_heart, mario",
+                            "yellow_pure_heart, peach",
+                            "luigi, yellow_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item in background 2",
+                        "access_rules": [
+                            "luigi, yellow_pure_heart",
+                            "yellow_pure_heart, peach, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Bowser",
+                        "access_rules": [
+                            "yellow_pure_heart, boomer, mario",
+                            "peach, yellow_pure_heart, boomer",
+                            "luigi, yellow_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "yellow_pure_heart, boomer"
+                        ],
+                        "hosted_item": "completed_chapter_3-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 150,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "3-2",
+                "sections": [
+                    {
+                        "name": "Hidden chest near pipe",
+                        "access_rules": [
+                            "yellow_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Thudley chest",
+                        "access_rules": [
+                            "bowser, yellow_pure_heart, mario",
+                            "thudley, yellow_pure_heart, mario",
+                            "yellow_pure_heart, mario, barry",
+                            "luigi, yellow_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "bowser, yellow_pure_heart, thudley, mario"
+                        ],
+                        "hosted_item": "completed_chapter_3-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 450,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "3-3",
+                "sections": [
+                    {
+                        "name": "Chomps chest",
+                        "access_rules": [
+                            "bowser, yellow_pure_heart, boomer, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "luigi, boomer, thudley, bowser, yellow_pure_heart, slim, mario",
+                            "boomer, thudley, bowser, yellow_pure_heart, slim, peach, mario",
+                            "boomer, thudley, dashell, bowser, yellow_pure_heart, peach, mario",
+                            "luigi, boomer, thudley, dashell, bowser, yellow_pure_heart, mario"
+                        ],
+                        "hosted_item": "completed_chapter_3-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 750,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "3-4",
+                "sections": [
+                    {
+                        "name": "Chest in pipe outside of castle",
+                        "access_rules": [
+                            "luigi, yellow_pure_heart, mario",
+                            "thoreau, yellow_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Free Carrie",
+                        "access_rules": [
+                            "thudley, yellow_pure_heart, $has|fort_key_(entrance)|1, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Right Francis chamber chest",
+                        "access_rules": [
+                            "carrie, $has|fort_key_(entrance)|1, thudley, yellow_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Left Francis chamber chest",
+                        "access_rules": [
+                            "luigi, $has|fort_key_(entrance)|1, thudley, yellow_pure_heart, mario",
+                            "thoreau, $has|fort_key_(entrance)|1, thudley, yellow_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Green Pure Heart",
+                        "access_rules": [
+                            "tippi, $has|fort_key_(cat)|2, fort_key_(entrance), yellow_pure_heart, peach"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "tippi, $has|fort_key_(cat)|2, fort_key_(entrance), yellow_pure_heart, peach"
+                        ],
+                        "hosted_item": "completed_chapter_3-4",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1050,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "4-1",
+                "sections": [
+                    {
+                        "name": "Squirps",
+                        "access_rules": [
+                            "tippi, helmet, green_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind asteroid 1",
+                        "access_rules": [
+                            "tippi, squirps, green_pure_heart, helmet, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind asteroid 2",
+                        "access_rules": [
+                            "tippi, squirps, green_pure_heart, helmet, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "helmet, squirps, green_pure_heart"
+                        ],
+                        "hosted_item": "completed_chapter_4-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 150,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "4-2",
+                "sections": [
+                    {
+                        "name": "Flip the dimensional rift",
+                        "access_rules": [
+                            "fleep, green_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item in chasm 3D",
+                        "access_rules": [
+                            "green_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind pipe near Blappy's house",
+                        "access_rules": [
+                            "mario, green_pure_heart, dottie",
+                            "slim, green_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Blappy",
+                        "access_rules": [
+                            "mario, green_pure_heart, dottie",
+                            "slim, green_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Fleep",
+                        "access_rules": [
+                            "green_pure_heart, ancient_clue"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "door_key_(4-2), green_pure_heart"
+                        ],
+                        "hosted_item": "completed_chapter_4-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 450,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "4-3",
+                "sections": [
+                    {
+                        "name": "Freestanding item behind first blocks",
+                        "access_rules": [
+                            "helmet, squirps, green_pure_heart",
+                            "helmet, green_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind blocks in many wormhole room",
+                        "access_rules": [
+                            "helmet, squirps, green_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Visible freestanding item in blocks",
+                        "access_rules": [
+                            "helmet, squirps, green_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "helmet, squirps, green_pure_heart"
+                        ],
+                        "hosted_item": "completed_chapter_4-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 750,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "4-4",
+                "sections": [
+                    {
+                        "name": "Chest near Barribad",
+                        "access_rules": [
+                            "green_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest above locked door",
+                        "access_rules": [
+                            "dashell, $has|dimension_key|1, green_pure_heart, mario",
+                            "luigi, $has|dimension_key|1, green_pure_heart, mario",
+                            "$has|dimension_key|1, peach, green_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in 3 block room",
+                        "access_rules": [
+                            "tippi, $has|dimension_key|2, green_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Blue Pure Heart",
+                        "access_rules": [
+                            "tippi, squirps, green_pure_heart, $has|dimension_key|3, helmet, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "tippi, squirps, green_pure_heart, $has|dimension_key|3, helmet, mario"
+                        ],
+                        "hosted_item": "completed_chapter_4-4",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1050,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "5-1",
+                "sections": [
+                    {
+                        "name": "Chest near Whacka",
+                        "access_rules": [
+                            "blue_pure_heart, mario, dottie"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest after Shlorps",
+                        "access_rules": [
+                            "blue_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in chasm 3D",
+                        "access_rules": [
+                            "blue_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "blue_pure_heart, peach, mario",
+                            "blue_pure_heart, luigi, mario"
+                        ],
+                        "hosted_item": "completed_chapter_5-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1350,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "5-2",
+                "sections": [
+                    {
+                        "name": "Fire Tablet",
+                        "access_rules": [
+                            "blue_pure_heart, bowser, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item in background",
+                        "access_rules": [
+                            "blue_pure_heart, mario",
+                            "blue_pure_heart, peach",
+                            "blue_pure_heart, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item in front of pipe",
+                        "access_rules": [
+                            "blue_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Stone Tablet",
+                        "access_rules": [
+                            "blue_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Water Tablet",
+                        "access_rules": [
+                            "blue_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Cudge",
+                        "access_rules": [
+                            "fire_tablet, stone_tablet, water_tablet, blue_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest near Star Block",
+                        "access_rules": [
+                            "dashell, blue_pure_heart, cudge, mario",
+                            "blue_pure_heart, cudge, peach, mario",
+                            "blue_pure_heart, cudge, luigi, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "blue_pure_heart, cudge"
+                        ],
+                        "hosted_item": "completed_chapter_5-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1650,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "5-3",
+                "sections": [
+                    {
+                        "name": "Freestanding item in cave",
+                        "access_rules": [
+                            "blue_pure_heart, cudge, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Save Cragley's crew",
+                        "access_rules": [
+                            "blue_pure_heart, cudge, peach, mario",
+                            "blue_pure_heart, cudge, luigi, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "blue_pure_heart, cudge, cave_key_(5-3)"
+                        ],
+                        "hosted_item": "completed_chapter_5-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1950,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "5-4",
+                "sections": [
+                    {
+                        "name": "Dottie",
+                        "access_rules": [
+                            "blue_pure_heart, dottie",
+                            "blue_pure_heart, cave_key_(5-4)"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item near Processing Center",
+                        "access_rules": [
+                            "blue_pure_heart, dottie"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind pipe",
+                        "access_rules": [
+                            "blue_pure_heart, thoreau, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Flip the skull",
+                        "access_rules": [
+                            "blue_pure_heart, thoreau, fleep, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Defeat Floro'Chunks",
+                        "access_rules": [
+                            "blue_pure_heart, card_key"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Indigo Pure Heart",
+                        "access_rules": [
+                            "thoreau, boomer, blue_pure_heart, floro_sprout, mario",
+                            "luigi, blue_pure_heart, thudley, floro_sprout, mario",
+                            "luigi, boomer, blue_pure_heart, floro_sprout, mario",
+                            "thoreau, blue_pure_heart, thudley, floro_sprout, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "blue_pure_heart, floro_sprout, luigi, thudley",
+                            "blue_pure_heart, floro_sprout, boomer, luigi",
+                            "thoreau, blue_pure_heart, floro_sprout, boomer",
+                            "blue_pure_heart, floro_sprout, thoreau, thudley"
+                        ],
+                        "hosted_item": "completed_chapter_5-4",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 2250,
+                        "y": 340
+                    }
+                ]
+            },
+            {
+                "name": "6-1",
+                "sections": [
+                    {
+                        "name": "Petrified Pure Heart",
+                        "access_rules": [
+                            "bowser, indigo_pure_heart",
+                            "indigo_pure_heart, barry",
+                            "carrie, indigo_pure_heart",
+                            "cudge, indigo_pure_heart",
+                            "indigo_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1350,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "6-2",
+                "sections": [],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1650,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "6-3",
+                "sections": [],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1950,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "6-4",
+                "sections": [
+                    {
+                        "name": "Sammer King reward 1",
+                        "access_rules": [
+                            "bowser, indigo_pure_heart",
+                            "indigo_pure_heart, barry",
+                            "carrie, indigo_pure_heart",
+                            "cudge, indigo_pure_heart",
+                            "indigo_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Sammer King reward 2",
+                        "access_rules": [
+                            "bowser, indigo_pure_heart",
+                            "indigo_pure_heart, barry",
+                            "carrie, indigo_pure_heart",
+                            "cudge, indigo_pure_heart",
+                            "indigo_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Sammer King reward 3",
+                        "access_rules": [
+                            "bowser, indigo_pure_heart",
+                            "indigo_pure_heart, barry",
+                            "carrie, indigo_pure_heart",
+                            "cudge, indigo_pure_heart",
+                            "indigo_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Sammer King reward 4",
+                        "access_rules": [
+                            "bowser, indigo_pure_heart",
+                            "indigo_pure_heart, barry",
+                            "carrie, indigo_pure_heart",
+                            "cudge, indigo_pure_heart",
+                            "indigo_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Sammer King reward 5",
+                        "access_rules": [
+                            "bowser, indigo_pure_heart",
+                            "indigo_pure_heart, barry",
+                            "carrie, indigo_pure_heart",
+                            "cudge, indigo_pure_heart",
+                            "indigo_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Sammer King reward 6",
+                        "access_rules": [
+                            "bowser, indigo_pure_heart",
+                            "indigo_pure_heart, barry",
+                            "carrie, indigo_pure_heart",
+                            "cudge, indigo_pure_heart",
+                            "indigo_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Sammer King reward 7",
+                        "access_rules": [
+                            "bowser, indigo_pure_heart",
+                            "indigo_pure_heart, barry",
+                            "carrie, indigo_pure_heart",
+                            "cudge, indigo_pure_heart",
+                            "indigo_pure_heart, boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 2250,
+                        "y": 840
+                    }
+                ]
+            },
+            {
+                "name": "7-1",
+                "sections": [
+                    {
+                        "name": "Chest after Gigabyte",
+                        "access_rules": [
+                            "luigi, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item above pipe",
+                        "access_rules": [
+                            "violet_pure_heart, mario",
+                            "luigi, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Give the Petrified Pure Heart to Jaydes",
+                        "access_rules": [
+                            "violet_pure_heart, petrified_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Luigi",
+                        "access_rules": [
+                            "violet_pure_heart, door_key_(7-1), mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Hidden freestanding item near Luigi",
+                        "access_rules": [
+                            "violet_pure_heart, door_key_(7-1), mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Hidden chest in Luigi's room",
+                        "access_rules": [
+                            "violet_pure_heart, door_key_(7-1), mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "violet_pure_heart, luvbi, mario",
+                            "luigi, violet_pure_heart, luvbi"
+                        ],
+                        "hosted_item": "completed_chapter_7-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1350,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "7-2",
+                "sections": [
+                    {
+                        "name": "Chest in first dark room",
+                        "access_rules": [
+                            "violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Defeat Bowser",
+                        "access_rules": [
+                            "tippi, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Hagra and get the book from the D-Man",
+                        "access_rules": [
+                            "tippi, $has|door_key_(7-2)|1, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Bring the Diet Book to Hagra",
+                        "access_rules": [
+                            "tippi, $has|door_key_(7-2)|1, violet_pure_heart, diet_book"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "tippi, $has|door_key_(7-2)|2, violet_pure_heart"
+                        ],
+                        "hosted_item": "completed_chapter_7-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1650,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "7-3",
+                "sections": [
+                    {
+                        "name": "Chest right of 25",
+                        "access_rules": [
+                            "luigi, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest at 34",
+                        "access_rules": [
+                            "luigi, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest left of 47",
+                        "access_rules": [
+                            "luigi, violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Wake Peach up",
+                        "access_rules": [
+                            "luigi, violet_pure_heart, thudley, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest at 68",
+                        "access_rules": [
+                            "luigi, violet_pure_heart, peach"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest right of 69",
+                        "access_rules": [
+                            "luigi, violet_pure_heart, peach"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest right of Cyrrus",
+                        "access_rules": [
+                            "luigi, violet_pure_heart, peach"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest atop building at 80",
+                        "access_rules": [
+                            "luigi, violet_pure_heart, thudley, peach, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest behind Star Block",
+                        "access_rules": [
+                            "luigi, violet_pure_heart, thudley, peach, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "luigi, violet_pure_heart, thudley, peach, mario"
+                        ],
+                        "hosted_item": "completed_chapter_7-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1950,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "7-4",
+                "sections": [
+                    {
+                        "name": "Save Sunbi",
+                        "access_rules": [
+                            "violet_pure_heart"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest after Gigabyte",
+                        "access_rules": [
+                            "violet_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Free Whibbi",
+                        "access_rules": [
+                            "bowser, violet_pure_heart, $has|door_key_(7-4)|1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Yebbi",
+                        "access_rules": [
+                            "luigi, luvbi, violet_pure_heart, $has|door_key_(7-4)|2, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item above two doors",
+                        "access_rules": [
+                            "$has|door_key_(7-4)|2, violet_pure_heart, luigi"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Rebbi",
+                        "access_rules": [
+                            "luigi, luvbi, violet_pure_heart, $has|door_key_(7-4)|2, mario",
+                            "luvbi, violet_pure_heart, dashell, $has|door_key_(7-4)|2, mario",
+                            "luvbi, violet_pure_heart, $has|door_key_(7-4)|2, peach, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Big chest below Rebbi",
+                        "access_rules": [
+                            "$has|door_key_(7-4)|2, violet_pure_heart, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Talk to Blubi after Whibbi",
+                        "access_rules": [
+                            "luigi, luvbi, $has|door_key_(7-4)|1, violet_pure_heart, bowser"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest behind stairs",
+                        "access_rules": [
+                            "red_orb, $has|door_key_(7-4)|1, violet_pure_heart, blue_orb, yellow_orb, bowser"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest far right of melee",
+                        "access_rules": [
+                            "red_orb, $has|door_key_(7-4)|1, violet_pure_heart, blue_orb, yellow_orb, bowser"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "White Pure Heart",
+                        "access_rules": [
+                            "red_orb, luvbi, $has|door_key_(7-4)|1, violet_pure_heart, blue_orb, yellow_orb, bowser"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "red_orb, luvbi, $has|door_key_(7-4)|1, violet_pure_heart, blue_orb, yellow_orb, bowser"
+                        ],
+                        "hosted_item": "completed_chapter_7-4",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 2250,
+                        "y": 1340
+                    }
+                ]
+            },
+            {
+                "name": "8-1",
+                "sections": [
+                    {
+                        "name": "Right chest above Peach cutscene start",
+                        "access_rules": [
+                            "luigi, white_pure_heart, fleep, boomer, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Left chest above Peach cutscene start",
+                        "access_rules": [
+                            "luigi, white_pure_heart, fleep, boomer, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in Soopa Striker hallway",
+                        "access_rules": [
+                            "luigi, white_pure_heart, fleep, boomer, peach, mario",
+                            "luigi, white_pure_heart, fleep, boomer, dashell, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "white_pure_heart, fleep, boomer, castle_bleck_key_(8-1), bowser, mario"
+                        ],
+                        "hosted_item": "completed_chapter_8-1",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1350,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "8-2",
+                "sections": [
+                    {
+                        "name": "Left chest above Merlon room",
+                        "access_rules": [
+                            "completed_chapter_8-1, boomer, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Middle chest above Merlon room",
+                        "access_rules": [
+                            "completed_chapter_8-1, boomer, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Right chest above Merlon room",
+                        "access_rules": [
+                            "completed_chapter_8-1, boomer, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Freestanding item behind 5th pipe",
+                        "access_rules": [
+                            "completed_chapter_8-1, carrie, boomer, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in Cursya room",
+                        "access_rules": [
+                            "castle_bleck_key_(8-2), completed_chapter_8-1, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "First hung item",
+                        "access_rules": [
+                            "completed_chapter_8-1, castle_bleck_key_(8-2), boomer"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Second hung item",
+                        "access_rules": [
+                            "castle_bleck_key_(8-2), completed_chapter_8-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Third hung item",
+                        "access_rules": [
+                            "castle_bleck_key_(8-2), completed_chapter_8-1, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Defeat the Chromeba",
+                        "access_rules": [
+                            "castle_bleck_key_(8-2), completed_chapter_8-1, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Merlee's Thunder Rage",
+                        "access_rules": [
+                            "castle_bleck_key_(8-2), completed_chapter_8-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "peach, $has|castle_bleck_key_(8-2)|2, completed_chapter_8-1, mario"
+                        ],
+                        "hosted_item": "completed_chapter_8-2",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1650,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "8-3",
+                "sections": [
+                    {
+                        "name": "Right chest behind first hall of mirrors",
+                        "access_rules": [
+                            "luigi, completed_chapter_8-2, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Left chest behind first hall of mirrors",
+                        "access_rules": [
+                            "luigi, completed_chapter_8-2, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest after block puzzle",
+                        "access_rules": [
+                            "luigi, completed_chapter_8-2, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Right chest behind second hall of mirrors",
+                        "access_rules": [
+                            "completed_chapter_8-2, $has|castle_bleck_key_(8-3)|2, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Left chest behind second hall of mirrors",
+                        "access_rules": [
+                            "completed_chapter_8-2, $has|castle_bleck_key_(8-3)|2, mario"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chapter Completed",
+                        "access_rules": [
+                            "luigi, completed_chapter_8-2, fleep, $has|castle_bleck_key_(8-3)|3, slim, mario"
+                        ],
+                        "hosted_item": "completed_chapter_8-3",
+                        "item_count": 0,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 1950,
+                        "y": 1840
+                    }
+                ]
+            },
+            {
+                "name": "8-4",
+                "sections": [
+                    {
+                        "name": "Chest after tiny passage",
+                        "access_rules": [
+                            "completed_chapter_4-1, completed_chapter_4-3, completed_chapter_2-1, completed_chapter_3-2, completed_chapter_5-4, mario, completed_chapter_6, completed_chapter_5-2, dottie, completed_chapter_5-3, completed_chapter_1-1, completed_chapter_1-2, completed_chapter_8-3, tippi, completed_chapter_8-1, completed_chapter_7-4, completed_chapter_2-2, completed_chapter_1-4, completed_chapter_2-3, completed_chapter_3-1, completed_chapter_7-1, completed_chapter_7-2, completed_chapter_3-3, completed_chapter_8-2, completed_chapter_7-3, completed_chapter_3-4, completed_chapter_4-2, completed_chapter_4-4, completed_chapter_2-4, completed_chapter_1-3, completed_chapter_5-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in first 3D hallways",
+                        "access_rules": [
+                            "completed_chapter_4-1, completed_chapter_4-3, completed_chapter_2-1, completed_chapter_3-2, completed_chapter_5-4, mario, completed_chapter_6, castle_bleck_key_(8-4), completed_chapter_5-2, completed_chapter_5-3, completed_chapter_1-1, completed_chapter_1-2, completed_chapter_8-3, tippi, completed_chapter_8-1, completed_chapter_7-4, completed_chapter_2-2, completed_chapter_1-4, completed_chapter_2-3, completed_chapter_3-1, completed_chapter_7-1, completed_chapter_7-2, completed_chapter_3-3, completed_chapter_8-2, completed_chapter_7-3, completed_chapter_3-4, completed_chapter_4-2, completed_chapter_4-4, completed_chapter_2-4, completed_chapter_1-3, completed_chapter_5-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in second 3D hallways",
+                        "access_rules": [
+                            "completed_chapter_4-1, completed_chapter_4-3, completed_chapter_2-1, completed_chapter_3-2, completed_chapter_5-4, mario, completed_chapter_6, castle_bleck_key_(8-4), completed_chapter_5-2, completed_chapter_5-3, completed_chapter_1-1, completed_chapter_1-2, completed_chapter_8-3, tippi, completed_chapter_8-1, completed_chapter_7-4, completed_chapter_2-2, completed_chapter_1-4, completed_chapter_2-3, completed_chapter_3-1, completed_chapter_7-1, completed_chapter_7-2, completed_chapter_3-3, completed_chapter_8-2, completed_chapter_7-3, completed_chapter_3-4, completed_chapter_4-2, completed_chapter_4-4, completed_chapter_2-4, completed_chapter_1-3, completed_chapter_5-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Chest in third 3D hallways",
+                        "access_rules": [
+                            "completed_chapter_4-1, completed_chapter_4-3, completed_chapter_2-1, completed_chapter_3-2, completed_chapter_5-4, mario, completed_chapter_6, castle_bleck_key_(8-4), completed_chapter_5-2, completed_chapter_5-3, completed_chapter_1-1, completed_chapter_1-2, completed_chapter_8-3, tippi, completed_chapter_8-1, completed_chapter_7-4, completed_chapter_2-2, completed_chapter_1-4, completed_chapter_2-3, completed_chapter_3-1, completed_chapter_7-1, completed_chapter_7-2, completed_chapter_3-3, completed_chapter_8-2, completed_chapter_7-3, completed_chapter_3-4, completed_chapter_4-2, completed_chapter_4-4, completed_chapter_2-4, completed_chapter_1-3, completed_chapter_5-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    },
+                    {
+                        "name": "Defeat Super Dimentio",
+                        "access_rules": [
+                            "completed_chapter_4-1, completed_chapter_4-3, green_pure_heart, red_pure_heart, completed_chapter_2-1, completed_chapter_3-2, completed_chapter_5-4, indigo_pure_heart, mario, white_pure_heart, completed_chapter_6, castle_bleck_key_(8-4), completed_chapter_5-2, violet_pure_heart, completed_chapter_5-3, completed_chapter_1-2, completed_chapter_1-1, completed_chapter_8-3, tippi, completed_chapter_8-1, completed_chapter_7-4, completed_chapter_2-2, completed_chapter_1-4, completed_chapter_2-3, blue_pure_heart, completed_chapter_3-1, completed_chapter_7-1, completed_chapter_7-2, completed_chapter_3-3, luigi, completed_chapter_8-2, completed_chapter_7-3, completed_chapter_3-4, completed_chapter_4-2, completed_chapter_4-4, orange_pure_heart, yellow_pure_heart, completed_chapter_2-4, completed_chapter_1-3, completed_chapter_5-1"
+                        ],
+                        "item_count": 1,
+                        "chest_unopened_img": "images/checks/chest.png",
+                        "chest_opened_img": "images/checks/chest_opened.png"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "chapters",
+                        "x": 2250,
+                        "y": 1840
+                    }
+                ]
+            }
+        ]
+    }
+]
